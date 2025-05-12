@@ -15,7 +15,5 @@ func CodelandUsernameValidation(str string) string {
 		return t
 	}
 
-	// code goes here
 	return f
-
 }
